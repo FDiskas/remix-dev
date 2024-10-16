@@ -1,0 +1,6 @@
+**/build/
+**/tests/__snapshots/
+**/node_modules/
+.tmp
+**/__tests__/fixtures
+**/__tests__/**/*/fixtures
